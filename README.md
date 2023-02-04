@@ -8,10 +8,25 @@ This project was made with [Create React App](https://github.com/facebook/create
 
 In the project directory, you can run:
 
-### `npm install youtube-api-search` [youtube-search-api](https://www.npmjs.com/package/youtube-search-api)
-### `npm install styled-components` [styled-components](https://www.npmjs.com/package/styled-components)
-### `npm install`
-### `npm start`
+### 
+```
+npm install youtube-api-search
+``` 
+### 
+```
+npm install styled-components
+```
+### 
+```
+npm install
+```
+### 
+```
+npm start
+```
+
+[youtube-search-api](https://www.npmjs.com/package/youtube-search-api)<br>
+[styled-components](https://www.npmjs.com/package/styled-components)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
